@@ -33,6 +33,7 @@ function pow(x, y) {
   return x ** y;
 }
 
+//square root
 function sqrt(x) {
   return x ** 0.5;
 }
