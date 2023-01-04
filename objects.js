@@ -26,6 +26,12 @@ console.log(client.age);
 console.log(clientsDog.name);
 console.log(clientsCat.name);
 
+//Practicing referencing the objects with bracket notation
 
+console.log(client['name']);
+console.log(client['surname']);
+console.log(client['age']);
+console.log(clientsDog['name']);
+console.log(clientsCat['name'])
 
 
