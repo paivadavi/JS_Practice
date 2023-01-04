@@ -1,9 +1,14 @@
-//Creating a model student object
-let student = {
-  name: "",
-  surname: "",
-  age: "",
-  studentId: "",
-  course: ""
+//Creating some example objects with fixed properties
+
+let client = {
+  name: "Ashley",
+  surname: "Brown",
+  age: 27,
+  email: "ashley@brown.com"
+}
+
+let clientsDog = {
+  name: 
+
 }
 
