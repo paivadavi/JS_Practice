@@ -8,7 +8,10 @@ let client = {
 }
 
 let clientsDog = {
-  name: 
-
+  name: "Doku",
+  breed: "Corgi",
+  age: "2"
 }
+
+
 
