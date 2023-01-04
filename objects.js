@@ -13,5 +13,19 @@ let clientsDog = {
   age: "2"
 }
 
+let clientsCat = {
+  name: "XicoLito",
+  breed: "Maine Coon",
+  age: 4
+}
+
+//Practicing referencing the objects with dot notation
+console.log(client.name);
+console.log(client.surname);
+console.log(client.age);
+console.log(clientsDog.name);
+console.log(clientsCat.name);
+
+
 
 
